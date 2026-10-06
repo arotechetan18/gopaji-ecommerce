@@ -62,6 +62,13 @@ This project represents the journey from:
 **💡 Idea → 🎨 Design → 💻 Development → 🚀 Working Application**
 
 ---
+---
+
+## 🌐 Live Website
+
+🚀 **[Visit Gopaji Website](https://gopaji.netlify.app/)**
+
+---
 
 ## 🎯 Project Goal
 
